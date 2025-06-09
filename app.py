@@ -14,7 +14,7 @@ def index():
     webapps = [
         {"name": "Weather Station", "url": "http://10.0.0.138:8001", "description": "Weather base station","favicon": "http://10.0.0.138:8001/static/favicon.ico"},
         {"name": "Task-UI", "url": "http://10.0.0.138:8003", "description": "Web front end for the task-api","favicon": "http://10.0.0.138:8003/static/favicon.ico"},
-        {"name": "Webapp 3", "url": "http://localhost:5003", "description": "will see you soon Webapp3;)","favicon": "https://example.com/weather-favicon.ico"},
+        {"name": "Webapp 3", "url": "http://10.0.0.138:5173/", "description": "WhiteBoard)","favicon": "https://www.tldraw.com/assets/0_merged_tla-CUIMqQIQ.svg"},
         {"name": "Hackers News", "url": "https://news.ycombinator.com/", "description": "hacker news","favicon": "https://news.ycombinator.com/y18.svg"},
         {"name": "BBC news", "url": "https://www.bbc.com/news", "description": "BBC news","favicon": "https://www.bbc.com/bbcx/favicon-32x32.png"},
         {"name": "Youtube", "url": "https://youtube.com/", "description": "Youtube","favicon": "https://www.youtube.com/s/desktop/f2c92168/img/favicon.ico"},
